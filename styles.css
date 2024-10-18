@@ -42,7 +42,7 @@ header {
     margin: 0;
 }
 
-.section-one {
+.header-content {
     display: flex;
     gap: 16px;
     margin-bottom: 48px;
@@ -83,7 +83,9 @@ header {
     width: min-content;
 }
 
-/* Below is the code to style the footer*/
+/* Below is the styling for the first main body section */
+
+/* Below is the code to style the footer */
 footer {
     flex-shrink: 0;
     background-color: #1F2937;
